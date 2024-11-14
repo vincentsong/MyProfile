@@ -19,7 +19,7 @@ With 20 years of experience in Web/Mobile application design and development, ra
 
 ### **Dolby Laboratories**
 
-**Staff Engineer (Full Stack Application)**  
+**Staff Engineer**  
 October 2020 - November 2024  
 _Australia_
 
