@@ -20,7 +20,7 @@ With 20 years of experience in Web/Mobile application design and development, ra
 ### **Dolby Laboratories**
 
 **Staff Engineer (Full Stack Application)**  
-October 2020 - Present (4 years 2 months)  
+October 2020 - November 2024
 _Australia_
 
 - Designed, reviewed, and delivered code & solutions for [Dolby.io](https://dolby.io) and [Millicast WebRTC SDK](https://github.com/millicast/millicast-sdk).
