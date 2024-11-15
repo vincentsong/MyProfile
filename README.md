@@ -20,7 +20,7 @@ With 20 years of experience in Web/Mobile application design and development, ra
 ### **Dolby Laboratories**
 
 **Staff Engineer**  
-October 2020 - November 2024 (4 years 2 months)
+October 2020 - November 2024 (4 years 2 months)  
 _Sydney_
 
 - Led software development team using Agile methodologies. Collaborated with product & design teams to deliver a seamless and user-centric experience. Wrote clean, maintainable code and ensure best practices in code reviews, testing, and documentation. Excellent problem-solving and debugging skills. Stays up to date with the latest technologies and industry trends.
