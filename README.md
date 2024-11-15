@@ -21,24 +21,22 @@ With 20 years of experience in Web/Mobile application design and development, ra
 
 **Staff Engineer**  
 October 2020 - November 2024  
-_Australia_
+_Sydney_
 
-- Designed, reviewed, and delivered code & solutions for [Dolby.io](https://dolby.io) and [Millicast WebRTC SDK](https://github.com/millicast/millicast-sdk).
-- Led software development using Agile methodologies and provided consultations on engineering strategies and methods.
-- Managed, coached, and motivated engineers through 1:1s and fostering teamwork.
-- Spearheaded the H.264 [Frame Metadata Solution](https://docs.dolby.io/streaming-apis/docs/frame-metadata) in the Millicast Web SDK, delivered enhanced functionality that provided additional value to our customers.
-- Integrated [DRM solution](<https://dolby.io/blog/summer-2024-product-updates/#:~:text=Digital%20Rights%20Management%20(DRM)>) into the Millicast WebRTC SDK for improved product security.
-- Developed an open-source [broadcast & player web application](https://github.com/dolbyio-samples/rts-app-react-publisher-viewer) using React.js to demonstrate seamless streaming with Dolby.io technology.
-- Built a customer oriented demo proxy API server with Fastify for authentication.
-- Collaborated with the Dolby Advanced Research team and Apple engineers on iOS prototypes, DolbyVision on WebRTC which includes low level work on h264 codec.
-- Contributed to the development of [DolbyOn](https://www.dolby.com/apps/dolby-on/) which could record and livestream with amazing Dolby sound from iOS and Android mobile phones. Includes implementing the user interface for the new features; integrating Dolby's C/C++ library into iOS and Android using NDK; Adding copyright protection to Dolby's C++ SDK on iOS/Android platform
+- Led software development team using Agile methodologies. Collaborated with product & design teams to deliver a seamless and user-centric experience. Wrote clean, maintainable code and ensure best practices in code reviews, testing, and documentation. Stay up to date with the latest technologies and industry trends.
+- Conducted regular weekly one-on-one meetings with team members to foster open communication. This allowed for in-depth discussions about individual achievements, challenges, and areas for improvement. It also provided a platform for engineers to set and update their short-term and long-term goals. Acknowledged successes to boost morale and motivation, while also focusing on actionable improvements to drive professional growth.
+- Organized regular brainstorming sessions to explore new ideas, technologies, and approaches. Encouraged team members to present proposals and experiments to promote ownership and creativity. Established a safe space where team members felt comfortable experimenting and taking calculated risks. Emphasized the importance of learning from both successes and failures. Promoted collaboration with other teams to share knowledge and generate innovative solutions. This fostered a culture of continuous learning and diversity of thought.
+- I am honored to be a member of project [Dolby.io](https://dolby.io), implemented and released [Millicast Ultra Low Latency Live Stream Web SDK](https://github.com/millicast/millicast-sdk) using Javascript | WebRTC | Web Workers | Vite | Lerna | Jest. Spearheaded the H.264 [Frame Metadata Solution](https://docs.dolby.io/streaming-apis/docs/frame-metadata) in the Millicast Web SDK, delivered enhanced functionality that provided additional value to our customers. Integrated [DRM solution](<https://dolby.io/blog/summer-2024-product-updates/#:~:text=Digital%20Rights%20Management%20(DRM)>) into the Millicast WebRTC SDK for improved product security. Contributed to maintaining and developing new features in the customer dashboard web app using vue.js | [Pinia](https://pinia.vuejs.org/) this included enabling users to manage service features, such as publishing tokens, toggling DRM, and configuring server cluster regions, also providing tools to monitor the status of each stream and view detailed cost information.
+- Led the in-house front-end team delivered an open-source [Demo broadcast & player web application](https://github.com/dolbyio-samples/rts-app-react-publisher-viewer) using TypeScript | React.js | [ChakraUI](https://www.chakra-ui.com/) | Storybook | Nx to demonstrate seamless low latency video streaming with Dolby.io technology.
+- Led the offshore team delivered an open-source [React UI components library of VideoCall service](https://github.com/voxeet/comms-uikit-react) using TypeScript | SCSS | React.js | Rollup | testing-library to help our customers develop video call application quickly with low code effort cost and leverage dolby.io's communication service. And also the open-source [Demo React VideoCall application](https://github.com/voxeet/comms-app-react-videocall/blob/main/package.json) using Typescript | React.js | vite | netlify based on the UI components library.
+- Built a customer oriented demo proxy API server for user authentication and authorization of dolby.io service. Using Node.js | Fastify | PubNub.
 
 **Senior Software Engineer**  
 February 2020 - October 2020 (9 months)  
 _Sydney_
 
-- Collaborated with cross-functional teams to develop a Video & Audio processing SDK, incorporating Dolby Digital and ATMOS technologies.
-- Maintained clear processes to enhance team productivity and documented APIs for future projects.
+- Collaborated with the Dolby Advanced Research team and Apple engineers on iOS prototypes, DolbyVision on WebRTC which includes low level work on h264 codec. Tech Stack: [libWebRTC](https://chromium.googlesource.com/external/webrtc/) | [iOS CoreVideo Framework](https://developer.apple.com/documentation/corevideo).
+- Contributed to the development of [DolbyOn](https://www.dolby.com/apps/dolby-on/) which could record and livestream with amazing Dolby sound from iOS and Android mobile phones. Includes implementing the user interface for the new features; integrating Dolby's C/C++ library into iOS and Android; Adding copyright protection to Dolby's C++ SDK on iOS/Android platform. Tech Stack: iOS UIKit | iOS CoreAudio & Audio Toolbox | Swift | Android NDK & MediaCodec | Kotlin & coroutines.
 
 ### **ResMed**
 
@@ -46,13 +44,13 @@ _Sydney_
 May 2015 - February 2020 (4 years 10 months)  
 _Bella Vista Business Park NSW_
 
-- Researched and applied cutting-edge iOS and Android technologies to enhance user experience and sales.
-- Implemented Bluetooth communication stacks for iOS and Android.
-- Applied machine learning and AR in iOS applications using CreateML, ARKit, and Vision frameworks.
-- Worked with Firebase, AWS AppSync, GraphQL, and cloud functions.
-- Improved UI frameworks for CPAP machine software and integrated touch screen hardware.
-- Led daily sprints with Agile scrum methodology using Jira, CI/CD tools like Jenkins and Bamboo.
-- Developed engineering tools for electrical and mechanical engineers.
+- Researched and applied cutting-edge iOS and Android technologies to enhance user experience and sales. Contributed to ResMed [AirMini iOS](https://apps.apple.com/au/app/airmini-by-resmed/id1167793399) and [AirMini Android](https://play.google.com/store/apps/details?id=com.resmed.airmini&hl=en_AU)
+- Implemented Bluetooth communication stacks for iOS and Android which are used for end user application and legacy testing system using TCP. Tech Stack: [iOS ExternalAccessary MFi](https://developer.apple.com/documentation/externalaccessory/) | [iOS CoreBluetooth](https://developer.apple.com/documentation/corebluetooth) | [Android Bluetooth classic](https://developer.android.com/reference/android/bluetooth/package-summary) | [Android BLE API](https://developer.android.com/develop/connectivity/bluetooth/ble/ble-overview)
+- Collaborated with sleep resercher and Data Scientist applied machine learning and AR in iOS applications using CreateML | [ARKit](https://developer.apple.com/documentation/arkit) | [Vision](https://developer.apple.com/documentation/vision/) frameworks to detect the mask and show the 3D instructions, with this knowlege and PoC, we won the final prize in Hackthon event.
+- Developed some PoCs with product team and Data Scientist by using AWS DynamoDB, Lambda, S3 services for Data Ingest.
+- Improved UI frameworks (script to screen) for CPAP machine software and integrated touch screen hardware C++ | RTOS.
+- Worked by sprints with Agile scrum methodology using Jira, CI/CD tools like Jenkins and Bamboo.
+- Developed engineering tools for electrical and mechanical engineers' test farm. Using React Native | Node.js | Electron.
 - Mentored junior developers and collaborated on RPC protocol design.
 
 ### **Yahoo7**
