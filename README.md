@@ -36,7 +36,7 @@ February 2020 - October 2020 (9 months)
 _Sydney_
 
 - Collaborated with the Dolby Advanced Research team and Apple engineers on iOS prototypes, DolbyVision on WebRTC which includes low level work on h264 codec. Tech Stack: [libWebRTC](https://chromium.googlesource.com/external/webrtc/) | [iOS CoreVideo Framework](https://developer.apple.com/documentation/corevideo).
-- Contributed to the development of [DolbyOn](https://www.dolby.com/apps/dolby-on/) which could record and livestream with amazing Dolby sound from iOS and Android mobile phones. Includes implementing the user interface for the new features; integrating Dolby's C/C++ library into iOS and Android; Adding copyright protection to Dolby's C++ SDK on iOS/Android platform. Tech Stack: iOS UIKit | iOS CoreAudio & Audio Toolbox | Swift | Android NDK & MediaCodec | Kotlin & coroutines.
+- Contributed to the development of [DolbyOn](https://www.dolby.com/apps/dolby-on/) which could record and livestream with amazing Dolby sound from iOS and Android mobile phones. Includes implementing the user interface for the new features; integrating Dolby's C/C++ library into iOS and Android; Adding copyright protection to Dolby's C++ SDK on iOS/Android platform. Tech Stack: iOS UIKit | iOS CoreAudio & Audio Toolbox | Swift | Android NDK & MediaCodec | Java | Kotlin & coroutines.
 
 ### **ResMed**
 
