@@ -1,12 +1,12 @@
 Dear Hiring Manager,
 
-I am excited to apply for the <Title> position at <Company Name>. With over a decade of experience in iOS/Android development and a recent focus on frontend development, I bring a unique blend of skills that aligns well with <Company>’s vision of creating exceptional mobile experiences.
+I am excited to apply for the Senior Staff Software Engineer position. With over a decade of experience in iOS/Android development and a recent focus on frontend development, I bring a unique blend of skills that aligns well with your vision of creating exceptional mobile experiences.
 
-For more than 10 years, I have built a strong foundation in iOS development, from Objective-C to Swift, from UIKit/Storyboard to SwiftUI/Combine, from local meetup to WWDC, and the intricacies of Apple’s ecosystem. My projects have ranged from consumer-facing apps to complex backend-integrated solutions, by leveraging mobile's bluetooth we helped more than 100 millions people to use their health and medical equipments more easily and conveniently, showcasing my ability to adapt and innovate. Although my recent two years have been focused on frontend technologies, this experience has expanded my expertise in user interface design and web technologies—skills that I believe are valuable for crafting intuitive and seamless mobile apps.
+For more than 10 years, I have built a strong foundation in iOS development, from Objective-C to Swift, from UIKit/Storyboard to SwiftUI/Combine, from local meetup to WWDC, and the intricacies of Apple’s ecosystem. My projects have ranged from consumer-facing apps to complex backend-integrated solutions, by leveraging mobile's bluetooth, ML models we helped more than 100 millions people to use their health and medical equipments more easily and conveniently, showcasing my ability to adapt and innovate. Although my recent two years have been focused on frontend technologies, this experience has expanded my expertise in user interface design and web technologies—skills that I believe are valuable for crafting intuitive and cross-platform mobile apps.
 
-I am particularly drawn to <Company>'s culture of adventure and innovation, as it resonates with my passion for technology and my commitment to pushing boundaries. I am confident that my comprehensive experience in iOS and Android development, combined with my dedication to staying current with industry trends, makes me a strong candidate for this role.
+I am particularly drawn to your orgnization's culture of adventure and innovation, as it resonates with my passion for technology and my commitment to pushing boundaries. I am confident that my comprehensive experience in iOS and Android development, combined with my dedication to staying current with industry trends, makes me a strong candidate for this role.
 
-Thank you for considering my application. I look forward to the opportunity to discuss how my background and skills can contribute to <Company>’s mobile development team.
+Thank you for considering my application. I look forward to the opportunity to discuss how my background and skills can contribute to the mobile development team.
 
 Sincerely,
 Vincent Song
