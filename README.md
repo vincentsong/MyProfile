@@ -19,7 +19,7 @@ With 20 years of experience in Web/Mobile application design and development, ra
 | Category   | Skills  |
 |------------|----------|
 | Front End | JavaScript, TypeScript, Reactjs, Redux, MobX, Vue.js, Vuex, HTML5, CSS/SCSS, Tailwind, Bootstrap, CSS-in-JS, CSS Module, Chrome DevTool, Figma, ChakraUI, Storybook, WebRTC, WebGL, WebWorker, Vite, Rollup, Nx, ESLint, Jest, Playwright, OWASP |
-| Back End | Nodejs, Fastify, Express, .NET Core, C#, EF core, SQL/NoSQL DB, Micro Services, RESTful API, WebSocket, gRPC, MessageQueue, Monitor & Logging tools, AWS, Azure, Docker, Swagger, Postman |
+| Back End | Nodejs, Fastify, Express, .NET Core, C#, EF core, Golang, SQL/NoSQL DB, Micro Services, RESTful API, WebSocket, gRPC, MessageQueue, Monitor & Logging tools, AWS, Azure, Docker, Swagger, Postman |
 | Mobile & Desktop | iOS, Android, React Native, Flutter, Electron, Qt, C/C++, Swift, Kotlin, Objective-C, Java, NDK, XCFramework |
 | DevOps | Git, GitHub, GitHub Actions, GitLab, GitLab pipeline, Jenkins, Kubernetes, Netlify |
 | Others | Agile, Scrum, Kanban, TDD, BDD, Confluence, Jira, UML, Python/Panda, AI Prompt|
@@ -43,7 +43,7 @@ _Sydney_
 
 - Collaborated with the Dolby Advanced Research team and Apple engineers on iOS prototypes, DolbyVision on WebRTC which includes low level work on h264 codec. Tech Stack: [libWebRTC](https://chromium.googlesource.com/external/webrtc/) | [iOS CoreVideo Framework](https://developer.apple.com/documentation/corevideo).
 
-- Contributed to the development of [DolbyOn](https://www.dolby.com/apps/dolby-on/) which could record and livestream with amazing Dolby sound from iOS and Android mobile phones. Includes implementing the user interface for the new features; integrating <mark>Dolby's C/C++ library</mark> into iOS and Android; Adding copyright protection to Dolby's C++ SDK on iOS/Android platform. <mark>Tech Stack: iOS UIKit | iOS CoreAudio & Audio Toolbox | Swift | Android NDK & MediaCodec | Java | Kotlin & coroutines</mark>.
+- Contributed to the development of [DolbyOn](https://www.dolby.com/apps/dolby-on/) which could record and livestream with amazing Dolby sound from iOS and Android mobile phones. Includes implementing the user interface for the new features; integrating <mark>Dolby's C/C++ library</mark> into iOS and Android; Adding copyright protection to Dolby's C++ SDK on iOS/Android platform, packaging CLI by Golang. <mark>Tech Stack: iOS UIKit | iOS CoreAudio & Audio Toolbox | Swift | Android NDK & MediaCodec | Java | Kotlin & coroutines</mark>.
 
 ### **ResMed**
 
