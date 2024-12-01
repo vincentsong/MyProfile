@@ -11,8 +11,18 @@ Mobile: 0433 299 887
 
 ## Summary
 
-With 20 years of experience in Web/Mobile application design and development, ranging from iOS and Android native platform to Web ecosystem, React, Vue front-end and Node.js, AWS in backend. I am passionate about full stack technologies covering multiple domains. I equally value leading teams, coaching developers, and promoting technologies beneficial to developers. My career goal is to release valuable applications and work collaboratively with teammates.
+With 20 years of experience in Web/Mobile application design and development, ranging from iOS and Android native platform to Web ecosystem, React, Vue front-end and Node.js, C#/.net core, AWS/Azure in backend. I am passionate about full stack technologies covering multiple domains. I equally value leading teams, coaching developers, and promoting technologies beneficial to developers. My career goal is to release valuable applications and work collaboratively with teammates.
 
+---
+
+## Skills
+| Category   | Skills  |
+|------------|----------|
+| Front End | JavaScript, TypeScript, Reactjs, Redux, MobX, Vue.js, Vuex, HTML5, CSS/SCSS, Tailwind, Bootstrap, CSS-in-JS, CSS Module, Chrome DevTool, Figma, ChakraUI, Storybook, WebRTC, WebGL, WebWorker, Vite, Rollup, Nx, ESLint, Jest, Playwright, , OWASP,  |
+| Back End | Nodejs, Fastify, Express, .NET Core, C#, EF core, SQL/NoSQL DB, Micro Services, RESTful API, WebSocket, gRPC, MessageQueue, Monitor & Logging tools, AWS, Azure, Docker, Swagger, Postman |
+| Mobile & Desktop | iOS, Android, React Native, Flutter, Electron, Qt, C/C++, Swift, Kotlin, Objective-C, Java, NDK, XCFramework |
+| DevOps | Git, GitHub, GitHub Actions, GitLab, GitLab pipeline, Jenkins, Kubernetes, Netlify |
+| Others | Agile, Scrum, Kanban, TDD, BDD, Confluence, Jira, UML, Python/Panda, AI Prompt|
 ---
 
 ## Experience
@@ -27,7 +37,7 @@ _Sydney_
 - Conducted regular weekly one-on-one meetings with team members to foster open communication. This allowed for in-depth discussions about individual achievements, challenges, and areas for improvement. It also provided a platform for engineers to set and update their **short-term and long-term goals**. Acknowledged successes to boost morale and motivation, while also focusing on actionable improvements to drive professional growth.
 - Organized regular **brainstorming sessions** to explore new ideas, technologies, and approaches. Encouraged team members to present proposals and experiments to promote ownership and creativity. Established a **safe space** where team members felt comfortable experimenting and taking calculated risks. Emphasized the importance of learning from both successes and failures. Promoted collaboration with other teams to share knowledge and generate innovative solutions. This fostered a culture of **continuous learning** and diversity of thought.
 - I am honored to be a member of project <mark>[Dolby.io](https://dolby.io)</mark> which is a large-scale live broadcasting with sub-second latency audio and video streaming SaaS platform on cloud, I implemented and released [Millicast Ultra Low Latency Live Stream Web SDK](https://github.com/millicast/millicast-sdk) using <mark>Javascript | WebRTC | Web Workers | Vite | Lerna | TDD with Jest | GitHub workflow</mark>. Spearheaded the H.264 [Frame Metadata Solution](https://docs.dolby.io/streaming-apis/docs/frame-metadata) in the Millicast Web SDK, delivered enhanced functionality that provided additional value to our customers. Integrated [DRM solution](<https://dolby.io/blog/summer-2024-product-updates/#:~:text=Digital%20Rights%20Management%20(DRM)>) into the Millicast WebRTC SDK for improved product security. Contributed to maintaining and developing new features in the customer dashboard web app using <mark>vue.js | [Pinia](https://pinia.vuejs.org/) | [Bootstrap-vue](https://bootstrap-vue.org/)</mark> this included enabling users to manage service features, such as publishing tokens, toggling DRM, and configuring server cluster regions, also providing tools to monitor the status of each stream and view detailed cost information.
-- Led the in-house front-end team to deliver an open-source [Demo broadcast & player web application](https://github.com/dolbyio-samples/rts-app-react-publisher-viewer) utilizing ==TypeScript | React.js | [ChakraUI](https://www.chakra-ui.com/) | UI test with Storybook | Nx | e2e with Playwrite== to demonstrate seamless low latency video streaming with Dolby.io technology. Worked closely with UI designer through Figma Design.
+- Led the in-house front-end team to deliver an open-source [Demo broadcast & player web application](https://github.com/dolbyio-samples/rts-app-react-publisher-viewer) utilizing ==TypeScript | React.js | [ChakraUI](https://www.chakra-ui.com/) | UI test with Storybook | Nx | e2e with Playwright== to demonstrate seamless low latency video streaming with Dolby.io technology. Worked closely with UI designer through Figma Design.
 - Led an offshore team to deliver an open-source [React UI components library of VideoCall service](https://github.com/voxeet/comms-uikit-react) utilizing <mark>TypeScript | SCSS | React.js | Rollup | testing-library</mark>. This library enables customers to quickly develop video call applications with minimal code effort while leveraging Dolby.io's communication service. Additionally, developed the open-source [Demo React VideoCall application](https://github.com/voxeet/comms-app-react-videocall) using <mark>Typescript | React.js | vite | GitHub Workflow | CodeQL | netlify</mark> based on the UI components library.
 - Built a customer oriented demo proxy API server for user authentication and authorization of dolby.io service. Tech stack is <mark>Fastify on Nodejs and Jest</mark>. Used **Postman Collection** to test and generate the API documentation. This API server communicated with our backend **microservices** -- which is implemented in <mark>C# .NET Core</mark> -- and deployed through the **docker container** to the cloud.
 
@@ -59,22 +69,13 @@ October 2014 - April 2015 (7 months)
 - Improved performance for Plus7 iOS movie streaming app.
 - Developed features for the 7News iOS app and assisted with Android app bug fixes.
 
-### **Westpac**
-
-**Senior iOS Developer**  
-August 2012 - August 2013 (1 year 1 month)
-
-- Designed and maintained in-house apps for iOS and Android platforms.
-- Notable projects:
-  - [St George Bank iPhone/iPad App](https://itunes.apple.com/au/app/st.george-banking-application/id294380705?mt=8)
-  - [Westpac Home Finder iPhone App](https://itunes.apple.com/au/app/westpac-home-finder/id573787597?mt=8)
-
 ### **Sony Music Entertainment**
 
 **Senior iOS Developer**  
-September 2011 - August 2012 (1 year)
+September 2011 - August 2013 (2 year)
 
-- Developed CoronaMusic app and Songl music streaming service for iOS and Android.
+- Developed CoronaMusic and Songl music streaming app for iOS and Android.
+- Assisted in backend development using Java and Spring framework.
 
 ### **Sony Mobile Communications**
 
@@ -82,18 +83,15 @@ September 2011 - August 2012 (1 year)
 May 2007 - June 2010 (3 years 2 months)  
 _Beijing, China_
 
-- Led a team to develop the MyFave social networking app for T-Mobile.
-- Refactored camera-control middleware for Sony devices.
-- Led the MMS feature team and set up an Android Learning Group.
+- Led UI team to develop the social networking app for T-Mobile.
+- Architected and customised MMS app in Android platform for Sony Ericsson.
 
 ### **Beijing CECW Communication Research Center Co Ltd**
 
 **Software Engineer**  
 March 2005 - February 2007 (2 years)
 
-- Developed and maintained applications on the Spreadtrum platform.
-- Managed a team of 3 for UI Application development.
-- Communicated requirements with customers and designed solutions.
+- Mobile Phone firmware development in C/C++.
 
 ---
 
@@ -101,21 +99,3 @@ March 2005 - February 2007 (2 years)
 
 **Yanshan University**  
 Bachelor of Computer Science (1999 - 2003)
-
----
-
-## Skills
-
-- **Programming Languages**: JavaScript, TypeScript, C++, Swift, Kotlin, Python.
-- **Frameworks**: React, Vue.js, Node.js, Electron, NDK.
-- **Tools**: AWS, Jenkins, Firebase, ARKit, Vision Framework, GraphQL.
-- **Domains**: WebRTC, Mobile Development (iOS & Android), Cloud Computing, Machine Learning.
-
----
-
-## Certifications
-
-- Cloud Computing Career Paths and Certifications: First Steps (2017)
-- Learning Amazon SageMaker
-- Influencing Others
-- Data Science & Analytics Career Paths & Certifications: First Steps
