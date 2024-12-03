@@ -1,6 +1,6 @@
 # Wenfeng Song
 
-**Application Architect of Web and Mobile Domain**  
+**Application Architect of Web and Mobile**  
 Sydney, New South Wales, Australia
 
 [Email: vincentsong2008@gmail.com](mailto:vincentsong2008@gmail.com)  
@@ -16,13 +16,15 @@ With 20 years of experience in Web/Mobile application design and development, ra
 ---
 
 ## Skills
-| Category   | Skills  |
-|------------|----------|
-| Front End | JavaScript, TypeScript, Reactjs, Redux, MobX, Vue.js, Vuex, HTML5, CSS/SCSS, Tailwind, Bootstrap, CSS-in-JS, CSS Module, Chrome DevTool, Figma, ChakraUI, Storybook, WebRTC, WebGL, WebWorker, Vite, Rollup, Nx, ESLint, Jest, Playwright, OWASP |
-| Back End | Nodejs, Fastify, Express, .NET Core, C#, EF core, Golang, SQL/NoSQL DB, Micro Services, RESTful API, WebSocket, gRPC, MessageQueue, Monitor & Logging tools, AWS, Azure, Docker, Swagger, Postman |
-| Mobile & Desktop | iOS, Android, React Native, Flutter, Electron, Qt, C/C++, Swift, Kotlin, Objective-C, Java, NDK, XCFramework |
-| DevOps | Git, GitHub, GitHub Actions, GitLab, GitLab pipeline, Jenkins, Kubernetes, Netlify |
-| Others | Agile, Scrum, Kanban, TDD, BDD, Confluence, Jira, UML, Python/Panda, AI Prompt|
+
+| Category         | Skills                                                                                                                                                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Front End        | JavaScript, TypeScript, Reactjs, Redux, MobX, Vue.js, Vuex, HTML5, CSS/SCSS, Tailwind, Bootstrap, CSS-in-JS, CSS Module, Chrome DevTool, Figma, ChakraUI, Storybook, WebRTC, WebGL, WebWorker, Vite, Rollup, Nx, ESLint, Jest, Playwright, OWASP |
+| Back End         | Nodejs, Fastify, Express, .NET Core, C#, EF core, Golang, SQL/NoSQL DB, Micro Services, RESTful API, WebSocket, gRPC, MessageQueue, Monitor & Logging tools, AWS, Azure, Docker, Swagger, Postman                                                |
+| Mobile & Desktop | iOS, Android, React Native, Flutter, Electron, Qt, C/C++, Swift, Kotlin, Objective-C, Java, NDK, XCFramework                                                                                                                                     |
+| DevOps           | Git, GitHub, GitHub Actions, GitLab, GitLab pipeline, Jenkins, Kubernetes, Netlify                                                                                                                                                               |
+| Others           | Agile, Scrum, Kanban, TDD, BDD, Confluence, Jira, UML, Python/Panda, AI Prompt                                                                                                                                                                   |
+
 ---
 
 ## Experience
