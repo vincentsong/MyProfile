@@ -29,6 +29,16 @@ With 20 years of experience in Web/Mobile application design and development, ra
 
 ## Experience
 
+### **Seven West Media**
+
+**Senior Full Stack Engineer**
+January 2025 - Present
+_Sydney_
+
+- Maintained the front-end and back-end of 7news website systems to improve user experience.
+- Successfully integrated election data APIs and implemented related react components
+- Improved the React Native 7new application by adding tablet support and resolving navigation bugs,
+
 ### **Dolby Laboratories**
 
 **Staff Engineer**  
