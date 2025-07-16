@@ -13,7 +13,7 @@ Full Stack Engineer with deep expertise in web, cloud, and mobile application de
 ### Seven News
 **Senior Full Stack Engineer**  
 January 2025 – Present  
-- Develop and maintain the full stack solutions for 7news platforms on AWS.
+- Develop and maintain the full stack solutions (includs React Native on Mobile) for 7news platforms on AWS.
 - PoC of Video & Text sentiment analysis using  AI Agents built by Langgraph & LLM.
 
 
@@ -21,13 +21,13 @@ January 2025 – Present
 **Staff Engineer / Senior Software Engineer**  
 February 2020 – November 2024  
 - WebRTC SDK(Millicast) and Low Code Reactjs SDK for Dolby.io.
-- Multi-tenants clients portal and dashboard for Dolby.io.
-- Led engineering teams and promoted best practices.
+- Multi-tenants SaaS portal and dashboard for Dolby.io.
+- Led local and oversea engineering teams 
 
 ### ResMed
 **Senior Software Engineer**  
 May 2015 – February 2020  
-- Built cloud and mobile applications for ResMed's CPAP solution.
+- Built web and mobile applications for ResMed's CPAP solution.
 - PoCs of Mask recommendation system by leveraging Apple's Vision and CoreML framework.
 
 ### Yahoo7 (Sydney)
